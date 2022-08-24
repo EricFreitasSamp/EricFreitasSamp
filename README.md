@@ -1,4 +1,3 @@
-- 👋 Oi eu sou @EricFreitasSamp
-- 👀 Estou interessado em desenvolvimento de sites, apps e games para mobile.
-- 🌱 Atualmente estou aprendendo HTML5, CSS3
-- 📫 Como chegar até mim `ericfreitassamp@gmail.com`
+# Eric Freitas
+
+Um simples programador freelancer especializado em **Desenvolvedor Web** e **[Python](https://python.org)**.
